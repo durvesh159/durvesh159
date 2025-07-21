@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Durvesh Raneja
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](mailto:durveshraneja414@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/durvesh-raneja-73734221a/)
 [![GitHub](https://img.shields.io/badge/GitHub-durvesh159-black?logo=github)](https://github.com/durvesh159)
 
-📍 Hadapsar, Pune | 📧 durveshraneja414@gmail.com | 📱 +91 9423620512
+📍 Hadapsar, Pune | 📧 [durveshraneja414@gmail.com](mailto:durveshraneja414@gmail.com) | 📱 +91 9423620512
 
 ---
 
@@ -52,13 +52,13 @@ I'm a passionate Web Developer skilled in the **MERN stack** (MongoDB, Express, 
 
 ## 🌟 Projects
 
-- **[Daily-Diary](#)**  
+- **[Daily-Diary](https://github.com/durvesh159/daily-diary)**  
   A MERN stack web app for mood-based diary entries with authentication and to-do list.
 
-- **[Crowdfunding Platform](#)**  
+- **[Crowdfunding Platform](https://github.com/durvesh159/crowdfunding-platform)**  
   Fundraising platform with campaign management, payment integration (Razorpay/Stripe), and backend validation.
 
-- **[Slot Machine](#)**  
+- **[Slot Machine](https://github.com/durvesh159/slot-machine-js)**  
   Terminal-based slot machine game using only JavaScript, featuring spin logic and score tracking.
 
 ---
@@ -70,13 +70,20 @@ I'm a passionate Web Developer skilled in the **MERN stack** (MongoDB, Express, 
 
 ---
 
+## 🛠️ GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=durvesh159&layout=compact)
+![Durvesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=durvesh159&show_icons=true&theme=radical)
+
+---
+
 ## 📫 Let's Connect!
 
 - 📧 [Email](mailto:durveshraneja414@gmail.com)
 - 📞 +91 9423620512
 - 💼 [GitHub](https://github.com/durvesh159)
+- [LinkedIn](https://www.linkedin.com/in/durvesh-raneja-73734221a/)
 
 ---
 
 > “Always eager to learn, build, and make a difference through code!”
-> 
